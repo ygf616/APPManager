@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/ed_search"
+        android:hint="请输入"
+        android:inputType="textPassword"
+        android:textSize="@dimen/tile"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:id="@+id/btn_show"
+        android:text="@string/btn_values"
+        android:textColor="@color/red"
+        android:textSize="@dimen/tile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageView
+        android:id="@+id/iv_logo"
+        android:src="@drawable/ic_launcher"
+        android:layout_width="200dp"
+        android:layout_height="200dp" />
+</LinearLayout>

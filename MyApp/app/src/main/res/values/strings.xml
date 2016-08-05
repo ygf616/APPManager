@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyApp</string>
+    <string name="hello_world">人民网北京12月17日电“幼儿园门口拐孩子，打死他。”15日，一段幼儿园门口制服一男子的视频被传到网上，引来网民热议。有传闻称该男子是抢小孩的人贩、猥亵孩童的变态者。福建石狮警方晚间回应称，该男子供述称因小朋友很可爱，就上前并动手摸。目前正在进一步审查中。另据当地媒体报道，该男子家人提供了他曾入住过某精神医院的有关证明。</string>
+    <string name="btn_values">点我试试</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
